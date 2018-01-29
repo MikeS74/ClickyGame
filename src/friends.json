@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "image": "/img/mike.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/img/annie.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/img/austin.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/img/ester.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/img/jeremiah.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/img/kimberly.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/img/rei.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/img/beth.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/img/erik.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/img/christi.jpg",
+    "clicked": false
+  }
+]
