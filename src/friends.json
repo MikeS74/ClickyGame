@@ -1,52 +1,52 @@
 [
   {
     "id": 1,
-    "image": "/ClickyGame/build/img/mike.jpg",
+    "image": "build/img/mike.jpg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/ClickyGame/build/img/annie.jpg",
+    "image": "build/img/annie.jpg",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/ClickyGame/build/img/austin.jpg",
+    "image": "build/img/austin.jpg",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/ClickyGame/build/img/ester.jpg",
+    "image": "build/img/ester.jpg",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/ClickyGame/build/img/jeremiah.jpg",
+    "image": "build/img/jeremiah.jpg",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "/ClickyGame/build/img/kimberly.jpg",
+    "image": "build/img/kimberly.jpg",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/ClickyGame/build/img/rei.jpg",
+    "image": "build/img/rei.jpg",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/ClickyGame/build/img/beth.jpg",
+    "image": "build/img/beth.jpg",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "/ClickyGame/build/img/erik.jpg",
+    "image": "build/img/erik.jpg",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "/ClickyGame/build/img/christi.jpg",
+    "image": "build/img/christi.jpg",
     "clicked": false
   }
 ]
