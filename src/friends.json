@@ -1,52 +1,52 @@
 [
   {
     "id": 1,
-    "image": "/img/mike.jpg",
+    "image": "public/img/mike.jpg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/img/annie.jpg",
+    "image": "public/img/annie.jpg",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/img/austin.jpg",
+    "image": "public/img/austin.jpg",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/img/ester.jpg",
+    "image": "public/img/ester.jpg",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/img/jeremiah.jpg",
+    "image": "public/img/jeremiah.jpg",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "/img/kimberly.jpg",
+    "image": "public/img/kimberly.jpg",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/img/rei.jpg",
+    "image": "public/img/rei.jpg",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/img/beth.jpg",
+    "image": "public/img/beth.jpg",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "/img/erik.jpg",
+    "image": "public/img/erik.jpg",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "/img/christi.jpg",
+    "image": "public/img/christi.jpg",
     "clicked": false
   }
 ]
